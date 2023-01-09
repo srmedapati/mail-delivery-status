@@ -1,6 +1,6 @@
 # mail-delivery-status
 
-The objective of this project to fetch email delivery notifications using GMail API.
+The objective of this project is to fetch email delivery notifications using GMail API.
 
 Prerequisites :
 
